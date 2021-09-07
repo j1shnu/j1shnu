@@ -7,7 +7,7 @@ j1shnu@github-desk1:~$ curl https://www.j1shnu.ml/ | jq
 
 {
   Name: "Jishnu Prasad",
-  aboutMe: ["Senior Linux Admin", "DevOps Engineer", "Tech"],
+  aboutMe: ["Senior Linux Admin", "DevOps", "SysOps"],
   code: ["Shell Scripting", "Python", "JavaScript", "Go"],
   technologies: {
       cloudServices: ["AWS", "DigitalOcean", "GCP"],
