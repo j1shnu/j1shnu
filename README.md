@@ -15,7 +15,7 @@ j1shnu@github-desk1:~$ curl https://www.j1shnu.ml/ | jq
       databases: ["PostgreSql", "MySql", "sqlite", "mongo"],
       misc: ["Django", "ReactJS", "Selenium", "Nagios"]
   },
-  currentFocus: "Kubernetes"
+  currentFocus: ["Kubernetes", "Terraform"]
 }
 
 ```
