@@ -10,7 +10,7 @@
 <h4>
  
 ```shell
-j1shnu@github-desk1:~$ curl https://www.j1shnu.ml/ | jq
+j1shnu@github-desk1:~$ curl https://api.j1shnu.ml/
 
 {
   Name: "Jishnu Prasad",
