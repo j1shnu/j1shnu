@@ -3,7 +3,7 @@
  
  [![Linkedin Badge](https://img.shields.io/badge/-j1shnu-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/j1shnu/)](https://www.linkedin.com/in/j1shnu/)
  [![Twitter Badge](https://img.shields.io/badge/-@j1shnuu-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/j1shnuu)](https://twitter.com/j1shnuu)
- [![Website Badge](https://img.shields.io/badge/-www.j1shnu.ml-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://j1shnu.github.io)](https://j1shnu.github.io/)
+ [![Website Badge](https://img.shields.io/badge/-j1shnu.github.io-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://j1shnu.github.io)](https://j1shnu.github.io/)
  [![Website Badge](https://img.shields.io/badge/-@j1shnu-informational?style=flat&logo=Telegram&logoColor=white&link=https://t.me/j1shnu)](https://t.me/j1shnu)
  [![Gmail Badge](https://img.shields.io/badge/-jishnu.prasad4-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jishnu.prasad4@gmail.com)](mailto:jishnu.prasad4@gmail.com)
 </div>
