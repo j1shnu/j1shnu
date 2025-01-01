@@ -2,7 +2,7 @@
 <div align="center">
  
  [![Linkedin Badge](https://custom-icon-badges.demolab.com/badge/j1shnu-0A66C2?logo=linkedin-white&logoColor=fff&link=https://www.linkedin.com/in/j1shnu/)](https://www.linkedin.com/in/j1shnu/)
- [![Twitter Badge](https://img.shields.io/badge/j1shnuu-%23000000.svg?logo=X&logoColor=white&link=https://twitter.com/j1shnuu)](https://twitter.com/j1shnuu)
+ [![Twitter Badge](https://img.shields.io/badge/j1shnuu-%23000000.svg?logo=X&logoColor=white&link=https://x.com/j1shnuu)](https://x.com/j1shnuu)
  [![Website Badge](https://img.shields.io/badge/-j1shnu.github.io-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://j1shnu.github.io)](https://j1shnu.github.io/)
  [![Website Badge](https://img.shields.io/badge/-@j1shnu-informational?style=flat&logo=Telegram&logoColor=white&link=https://t.me/j1shnu)](https://t.me/j1shnu)
  [![Gmail Badge](https://img.shields.io/badge/-jishnu.prasad4-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jishnu.prasad4@gmail.com)](mailto:jishnu.prasad4@gmail.com)
