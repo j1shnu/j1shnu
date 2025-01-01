@@ -10,11 +10,11 @@
 <h4>
  
 ```shell
-j1shnu@github-desk1:~$ curl https://api.j1shnu.ml/
+j1shnu@github-desk1:~$ curl https://about.github.io/j1shnu/
 
 {
   Name: "Jishnu Prasad",
-  aboutMe: ["Senior Linux Admin", "DevOps", "SysOps"],
+  aboutMe: ["Senior Linux Admin", "DevOps|SysOps", "AWS Cloud Engg."],
   code: ["Shell Scripting", "Python", "JavaScript", "Go"],
   technologies: {
       cloudServices: ["AWS", "DigitalOcean", "GCP"],
