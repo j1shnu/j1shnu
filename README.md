@@ -18,11 +18,11 @@ j1shnu@github-desk1:~$ curl https://about.github.io/j1shnu/
   code: ["Shell Scripting", "Python", "JavaScript", "Go"],
   technologies: {
       cloudServices: ["AWS", "DigitalOcean", "GCP"],
-      devOps: ["Jenkins", "Docker🐳", "Ansible", "Vagrant", "Terraform"],
+      devOps: ["Kubernetes", "Jenkins", "Docker🐳", "Ansible", "Vagrant", "Terraform"],
       databases: ["PostgreSql", "MySql", "sqlite", "mongo"],
       misc: ["Django", "ReactJS", "Selenium", "Nagios"]
   },
-  currentFocus: ["Kubernetes"]
+  currentFocus: ["Diving deep into Kubernetes observability"]
 }
 
 ```
