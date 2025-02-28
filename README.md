@@ -19,6 +19,7 @@ j1shnu@github-desk1:~$ curl https://about.github.io/j1shnu/
   technologies: {
       cloudServices: ["AWS", "DigitalOcean", "GCP"],
       devOps: ["Kubernetes", "Jenkins", "Docker🐳", "Ansible", "Vagrant", "Terraform"],
+      monitoring: ["Prometheus", "Grafana", "ELK", "EFK"],
       databases: ["PostgreSql", "MySql", "sqlite", "mongo"],
       misc: ["Django", "ReactJS", "Selenium", "Nagios"]
   },
