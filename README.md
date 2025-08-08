@@ -1,4 +1,4 @@
-[![Jishnu header](https://raw.githubusercontent.com/j1shnu/j1shnu/main/assets/banner.png)](https://www.j1shnu.ml/)
+[![Jishnu header](https://raw.githubusercontent.com/j1shnu/j1shnu/main/assets/banner.jpg)](https://www.j1shnu.ml/)
 <div align="center">
  
  [![Linkedin Badge](https://custom-icon-badges.demolab.com/badge/j1shnu-0A66C2?logo=linkedin-white&logoColor=fff&link=https://www.linkedin.com/in/j1shnu/)](https://www.linkedin.com/in/j1shnu/)
