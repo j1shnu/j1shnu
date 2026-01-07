@@ -14,16 +14,16 @@ j1shnu@github-desk1:~$ curl https://about.github.io/j1shnu/
 
 {
   Name: "Jishnu Prasad",
-  aboutMe: ["Senior Linux Admin", "DevOps|SysOps", "AWS Cloud Engg."],
-  code: ["Shell Scripting", "Python", "JavaScript", "Go"],
+  aboutMe: ["Sr. DevOps Engineer", "Sr. SRE", "AWS Cloud Engg."],
+  code: ["BASH", "Python", "JavaScript", "Go"],
   technologies: {
       cloudServices: ["AWS", "DigitalOcean", "GCP"],
-      devOps: ["Kubernetes", "Jenkins", "Docker🐳", "Ansible", "Vagrant", "Terraform"],
-      monitoring: ["Prometheus", "Grafana", "ELK", "EFK"],
+      devOps: ["Kubernetes", "Helm", "Jenkins", "Docker🐳", "Ansible", "Vagrant", "Terraform", "GitOps"],
+      monitoring: ["Prometheus", "Grafana", "ELK", "EFK", "Nagios", "Kibana", "SumoLogic"],
       databases: ["PostgreSql", "MySql", "sqlite", "mongo"],
-      misc: ["Django", "ReactJS", "Selenium", "Nagios"]
+      misc: ["Django", "ReactJS", "Selenium"]
   },
-  currentFocus: ["Diving deep into Kubernetes observability"]
+  currentFocus: ["MLOps"]
 }
 
 ```
