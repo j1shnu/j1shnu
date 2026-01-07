@@ -21,7 +21,7 @@ j1shnu@github-desk1:~$ curl https://about.github.io/j1shnu/
       devOps: ["Kubernetes", "Helm", "Jenkins", "Docker🐳", "Ansible", "Vagrant", "Terraform", "GitOps"],
       monitoring: ["Prometheus", "Grafana", "ELK", "EFK", "Nagios", "Kibana", "SumoLogic"],
       databases: ["PostgreSql", "MySql", "sqlite", "mongo"],
-      misc: ["Django", "ReactJS", "Selenium"]
+      misc: ["Django", "Flask", "FastAPI", "ReactJS", "Selenium"]
   },
   currentFocus: ["MLOps"]
 }
